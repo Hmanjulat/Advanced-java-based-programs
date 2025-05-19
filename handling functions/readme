@@ -42,3 +42,7 @@ solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/60d0
 RandomStringGenerator :[Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/c247e78ee3de68f45eb855568a50bce4ae60bb51)
+
+WordCounter : [Write a Java Program for Counting the number of words in a string using user defined function
+countWords()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/1886d52c2ace96ad8ea7dc78661403313f2f5422)
