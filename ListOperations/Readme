@@ -26,7 +26,7 @@ ColorSorter :[Write a java program for getting different colors through ArrayLis
 using Collections.sort( ArrayListObj)]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20214449.png)
 
-
-
-
+IterateFromSecond :[Write a Java program to iterate through all elements in a linked list starting at the
+specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/803a3d682b24cb3c32d601061912600c5224539d)
 
