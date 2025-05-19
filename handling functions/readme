@@ -22,6 +22,10 @@ PalindromeChecker : [Write a Java Program for Checking if a string reads the sam
 and punctuation) using user defined function isPalindrome()]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/522ddcd1055189bd5af3152a2c5f24f35af9fbcf)
 
- [Write a Java Program for Eliminating all whitespace characters from a string using user defined
+WhitespaceRemover: [Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/6193a776587f069349b9dfbd9c4a36cb5abe21b0)
+
+[Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords()]
 solution->()
