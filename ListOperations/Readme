@@ -34,3 +34,7 @@ ReverseIteratorDemo :[Write a Java program to iterate a linked list in reverse o
 objlist.descendingIterator())]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/5bda5c4d92d87f25eae5add68fed55a6341c3398)
 
+InsertAtEnd : [Write a Java program to insert the specified element at the end of a linked list.( using
+l_listobj.offerLast("Pink"))]
+(https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20215847.png)
+
