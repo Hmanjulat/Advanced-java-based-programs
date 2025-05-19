@@ -22,6 +22,10 @@ DeleteNthColor :[Write a java program for getting different colors through Array
 element from the ArrayList object by using remove by index]
 solution->https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20213452.png
 
+ColorSorter :[Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj)]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20214449.png)
+
 
 
 
