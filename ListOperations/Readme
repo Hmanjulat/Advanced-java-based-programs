@@ -38,3 +38,7 @@ InsertAtEnd : [Write a Java program to insert the specified element at the end o
 l_listobj.offerLast("Pink"))]
 (https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20215847.png)
 
+DisplayWithPositions : [Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )]
+solution :(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/54172bc4f2c5ad46fa0665ab5d181213be332e4b)
+
