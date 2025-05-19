@@ -18,6 +18,10 @@ StringReverser : [Write a Java Program for Reversing the characters in a string 
 reverseString()]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/ee50642074f6ce4baf4380b6fa3f9ffeab483bdc)
 
-[Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
+PalindromeChecker : [Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/522ddcd1055189bd5af3152a2c5f24f35af9fbcf)
+
+ [Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace()]
 solution->()
