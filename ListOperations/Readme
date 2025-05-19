@@ -30,3 +30,7 @@ IterateFromSecond :[Write a Java program to iterate through all elements in a li
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/803a3d682b24cb3c32d601061912600c5224539d)
 
+ReverseIteratorDemo :[Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/5bda5c4d92d87f25eae5add68fed55a6341c3398)
+
