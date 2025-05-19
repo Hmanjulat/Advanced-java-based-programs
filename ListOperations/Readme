@@ -18,6 +18,10 @@ ColorSubList :[Write a java program for getting different colors through ArrayLi
 elements 1st and 2nd from the ArrayList object by using SubList()]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20213133.png)
 
+DeleteNthColor :[Write a java program for getting different colors through ArrayList interface and delete nth
+element from the ArrayList object by using remove by index]
+solution->https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20213452.png
+
 
 
 
