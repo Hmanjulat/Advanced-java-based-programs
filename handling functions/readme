@@ -9,3 +9,7 @@ solutions->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/bfd
 NullOrEmptyCheck :(Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty())
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/df16683dbfa5b9abd0d0ac69516c83dc0d28207f)
+
+SubstringCount : [Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/1185fe7c479dd7169c0372f32adbb33902ff3ea5)
