@@ -13,3 +13,7 @@ Solution -> (https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main
 ColorListEditor : [Write a java program for getting different colors through ArrayList interface and remove the
 2nd element and color "Blue" from the ArrayList]
 Solution -> (https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20212905.png)
+
+ColorSubList :[Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20213133.png)
