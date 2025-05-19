@@ -9,3 +9,7 @@ Solution -> (https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main
 Collectionssort : [Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not]
 Solution -> (https://github.com/Hmanjulat/Advanced-java-based-programs/blob/main/ListOperations/Screenshot%202025-05-19%20212642.png)
+
+ColorListEditor : [Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList]
+Solution -> ()
