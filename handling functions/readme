@@ -38,3 +38,7 @@ solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/15bf
 NumericChecker :[Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/60d0d0a3afb9a729dc6e27dff26fb413fccdeadf)
+
+RandomStringGenerator :[Write a Java Program for Creating a random string of a specified length using user defined
+function generateRandomString()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/c247e78ee3de68f45eb855568a50bce4ae60bb51)
