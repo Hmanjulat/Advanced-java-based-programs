@@ -29,3 +29,7 @@ solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/6193
 [Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()]
 solution->()
+
+StringTruncator:[Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+defined function truncate()]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/15bf898203d49b424bb1ee9cf7ebacd5d466fadc)
