@@ -11,3 +11,7 @@ CountryCapitalList:[Develop a Swing program in Java to add the countries USA, In
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display the capital of the countries on console whenever the countries are selected on the list.]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/9ce650cc9b9e1cac98b73c4ad6a3355aea4f67de)
+
+CMYTabbedPane:[Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
+display the concerned color whenever the specific tab is selected in the Pan]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/dbee7b735dd89cb0a0319f9c2c6fa88e952c8eb6)
