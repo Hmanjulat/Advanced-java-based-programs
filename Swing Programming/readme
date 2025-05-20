@@ -1,3 +1,13 @@
 HelloSwing :[Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel]
 solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/f67098bb30a1d44cd6c976b9120a325522634bba)
+
+CountryButtonApp :[Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
+pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
+event handling mechanism with addActionListener( ).]
+solution->(https://github.com/Hmanjulat/Advanced-java-based-programs/commit/e08c4d550c3b5272170293a86ca06938d638c142)
+
+:[Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
+Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
+pressed by implementing the event handling mechanism with addActionListener( ).]
+solution->()
