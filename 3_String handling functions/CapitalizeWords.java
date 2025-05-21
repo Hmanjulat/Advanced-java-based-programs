@@ -1,3 +1,5 @@
+Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords()
 package A3;
 import java.util.Scanner;
 public class CapitalizeWords {
